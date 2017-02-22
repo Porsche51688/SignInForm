@@ -39,7 +39,7 @@ from google.appengine.ext.webapp import util
 from insightly import Insightly
 
 # your Insightly API key goes here (don't share this publicly)
-apikey = ''
+apikey = 'c3491ae9-8523-441f-8dcb-316a365b4247'
 
 def load_page(page, data = None):
     """
